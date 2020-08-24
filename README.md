@@ -61,7 +61,7 @@
     End to end JEE based application development for healthcare sector using technologies like IBM Porlet, EJB, XML, XSLT, DB2 WAS, WPS, WADS, MQseris, Ant, Checkstyle, Rational XDE, Unit, XML Spy. Taking lead on describing how to do TDD based development. Developing POC & creating report on performance comparison of XML/XSLT Vs JSF based page rendering. Collaboration with architects in design decisions/suggestions
 </p>
 
-![Open source](https://github.com/arnabk/arnabk/raw/master/OpenSource.png)
+[<img src="https://github.com/arnabk/arnabk/raw/master/OpenSource.png">]()
 
 <span style="padding-left: 20px">![Webtrader](https://github.com/arnabk/arnabk/raw/master/Webtrader.png)</span> This is a full trading application built using jQuery, jQuery UI & Highcharts
 
@@ -69,6 +69,6 @@
 
 ![Education](https://github.com/arnabk/arnabk/raw/master/Education.png)
 
-<span style="padding-left: 20px">![Bachelor of Technology, Electrical EngineeringNational Institute of Technology, Silchar, India](https://github.com/arnabk/arnabk/raw/master/Degree.png)</span> Bachelor of Technology, Electrical EngineeringNational Institute of Technology, Silchar, India
+<span style="padding-left: 20px">[<img src="https://github.com/arnabk/arnabk/raw/master/Degree.png">](http://www.nits.ac.in/)</span> Bachelor of Technology, Electrical Engineering
 
-<span style="padding-left: 20px">![Machine Learning Engineer](https://github.com/arnabk/arnabk/raw/master/Udacity.png)</span> Machine Learning Engineer
+<span style="padding-left: 20px">[<img src="https://github.com/arnabk/arnabk/raw/master/Udacity.png">](https://graduation.udacity.com/confirm/GQU5F559)</span> <span style="vertical-align: middle;">Machine Learning Engineer</span>
