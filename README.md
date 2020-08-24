@@ -4,7 +4,7 @@ arnab.k@gmail.com
 
 ![Experience](Exp.png)
 
-&nbsp;&nbsp;&nbsp; ![Principal Eng](Principal.png)
+&nbsp;&nbsp;&nbsp; ![Principal Eng](https://github.com/arnabk/arnabk/raw/master/Principal.png)
 
 &nbsp;&nbsp;&nbsp; Working @ **Varo**
 
