@@ -63,4 +63,12 @@
 
 ![Open source](https://github.com/arnabk/arnabk/raw/master/OpenSource.png)
 
+<span style="padding-left: 20px">![Webtrader](https://github.com/arnabk/arnabk/raw/master/Webtrader.png)</span> This is a full trading application built using jQuery, jQuery UI & Highcharts
+
+<span style="padding-left: 20px">![Stratum-client](https://github.com/arnabk/arnabk/raw/master/Stratum.png)</span> NodeJS library to communicate with crypto mining pool over stratum client
+
 ![Education](https://github.com/arnabk/arnabk/raw/master/Education.png)
+
+<span style="padding-left: 20px">![Bachelor of Technology, Electrical EngineeringNational Institute of Technology, Silchar, India](https://github.com/arnabk/arnabk/raw/master/Degree.png)</span> Bachelor of Technology, Electrical EngineeringNational Institute of Technology, Silchar, India
+
+<span style="padding-left: 20px">![Machine Learning Engineer](https://github.com/arnabk/arnabk/raw/master/Udacity.png)</span> Machine Learning Engineer
