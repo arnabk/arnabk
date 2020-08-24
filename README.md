@@ -1,29 +1,21 @@
-### ARNAB KARMAKAR
-Javascript Developer
-arnab.k@gmail.com
+### [ARNAB KARMAKAR](mailto:arnab.k@gmail.com)
+*Javascript Developer*
 
 ![Skills](https://github.com/arnabk/arnabk/raw/master/Skill.png)
 
-<img src="https://www.pinclipart.com/picdir/big/207-2071102_es7-snippets-react-native-icon-png-clipart.png" width="50" height="50" alt="React" />
-<img src="https://www.pinclipart.com/picdir/middle/202-2022380_however-redux-has-a-functional-programming-based-nature.png" width="50" height="50" alt="Redux" />
-<img src="https://www.benmvp.com/static/bf5110fcdc155bf03a62c7863573ec65/c7de9/ecmascript-logo.webp" width="50" height="50" alt="ES6" />
-<img src="https://www.pinclipart.com/picdir/middle/544-5441989_graphql-graphql-logo-png-clipart.png" width="50" height="50" alt="GraphQL" />
-
-<img src="https://miro.medium.com/max/1838/1*pO4kjXdsOi_ZsS50Py6UNQ.png" width="50" height="50" alt="Apollo" />
-
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="50" height="50" alt="NodeJS" />
-
-<img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" width="50" height="50" alt="ExpressJS" />
-
-<img src="https://gitenterprise.files.wordpress.com/2018/04/p-logo.png" width="50" height="50" alt="PolymerJS" />
-
-<img src="https://upmostly.com/wp-content/uploads/jquery-vs-react-jquery-logo-1024x530.jpg" width="50" height="50" alt="Jquery" />
-
-<img src="https://www.uokpl.rs/fpng/d/541-5415846_webpack-logo-hd.png" width="50" height="50" alt="Webpack" />
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/grunt-1-logo-png-transparent.png" width="50" height="50" alt="GruntJS" />
-
-<img src="https://i1.wp.com/blog.alexdevero.com/wp-content/uploads/2015/03/sass-logo.jpg?resize=768%2C474&ssl=1" width="50" height="50" alt="Sass" />
+![React](https://github.com/arnabk/arnabk/raw/master/React.png")
+![Redux](https://github.com/arnabk/arnabk/raw/master/Redux.png")
+![ES6](https://github.com/arnabk/arnabk/raw/master/ES6.png")
+![GraphQL](https://github.com/arnabk/arnabk/raw/master/GraphQL.png")
+![Apollo](https://github.com/arnabk/arnabk/raw/master/Apollo.png")
+![NodeJS](https://github.com/arnabk/arnabk/raw/master/NodeJS.png")
+![ExpressJS](https://github.com/arnabk/arnabk/raw/master/ExpressJS.png")
+![PolymerJS](https://github.com/arnabk/arnabk/raw/master/PolymerJS.png")
+![Jquery](https://github.com/arnabk/arnabk/raw/master/Jquery.jpg")
+![Webpack](https://github.com/arnabk/arnabk/raw/master/Jquery.png")
+![GruntJS](https://github.com/arnabk/arnabk/raw/master/GruntJS.png")
+![Sass](https://github.com/arnabk/arnabk/raw/master/Sass.png")
+![Less](https://github.com/arnabk/arnabk/raw/master/Less.png")
 
 ![Experience](https://github.com/arnabk/arnabk/raw/master/Exp.png)
 
