@@ -67,7 +67,7 @@
 
 <span style="padding-left: 20px">![Stratum-client](https://github.com/arnabk/arnabk/raw/master/Stratum.png)</span> NodeJS library to communicate with crypto mining pool over stratum client
 
-![Education](https://github.com/arnabk/arnabk/raw/master/Education.png)
+[<img src="https://github.com/arnabk/arnabk/raw/master/Education.png">]()
 
 <span style="padding-left: 20px">![<img src="https://github.com/arnabk/arnabk/raw/master/Degree.png">](http://www.nits.ac.in/)</span> Bachelor of Technology, Electrical Engineering
 
