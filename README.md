@@ -63,12 +63,12 @@
 
 [<img src="https://github.com/arnabk/arnabk/raw/master/OpenSource.png">]()
 
-<span style="padding-left: 20px">![Webtrader](https://github.com/arnabk/arnabk/raw/master/Webtrader.png)</span> This is a full trading application built using jQuery, jQuery UI & Highcharts
+<span style="padding-left: 20px">![<img src="https://github.com/arnabk/arnabk/raw/master/Webtrader.png">](https://github.com/binary-com/webtrader)</span> This is a full trading application built using jQuery, jQuery UI & Highcharts
 
-<span style="padding-left: 20px">![Stratum-client](https://github.com/arnabk/arnabk/raw/master/Stratum.png)</span> NodeJS library to communicate with crypto mining pool over stratum client
+<span style="padding-left: 20px">![<img src="https://github.com/arnabk/arnabk/raw/master/Stratum.png">](https://github.com/arnabk/stratum-client)</span> NodeJS library to communicate with crypto mining pool over stratum client
 
 [<img src="https://github.com/arnabk/arnabk/raw/master/Education.png">]()
 
-![<img src="https://github.com/arnabk/arnabk/raw/master/Degree.png">](http://www.nits.ac.in/) [<img src="https://github.com/arnabk/arnabk/raw/master/ElectricalEngineer.jpg">]() Bachelor of Technology, Electrical Engineering
+[![Bachelor of Technology, Electrical Engineering](https://github.com/arnabk/arnabk/raw/master/Degree.png)](http://www.nits.ac.in/) ![Bachelor of Technology, Electrical Engineering](https://github.com/arnabk/arnabk/raw/master/ElectricalEngineer.jpg) Bachelor of Technology, Electrical Engineering
 
-![<img src="https://github.com/arnabk/arnabk/raw/master/Udacity.png">](https://graduation.udacity.com/confirm/GQU5F559) <span style="vertical-align: middle;">Machine Learning Engineer</span>
+[![Machine Learning Engineer](https://github.com/arnabk/arnabk/raw/master/Udacity.png)](https://graduation.udacity.com/confirm/GQU5F559) <span style="vertical-align: middle;">Machine Learning Engineer</span>
