@@ -4,7 +4,7 @@ arnab.k@gmail.com
 
 ![Experience](https://github.com/arnabk/arnabk/raw/master/Exp.png)
 
-<span style="padding-left: 20px">![Principal Eng](https://github.com/arnabk/arnabk/raw/master/Principal.png)</span> <span style="position: relative; top: 10px">Working @ **Varo**</span>
+<span style="padding-left: 20px">![Principal Eng](https://github.com/arnabk/arnabk/raw/master/Principal.png)</span> <span style="position: relative; top: -10px">Working @ **Varo**</span>
 
 <p style="padding: 10px 10px 10px 20px;">
     Building full stack application using ReactJS, React Context, React Hooks, Apollo client, ES6, enzyme, material-ui, typescript, micro-services using Apollo Server, ES6, jest, typescript, kafka, GRPC, elastic search.
