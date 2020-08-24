@@ -69,6 +69,6 @@
 
 ![Education](https://github.com/arnabk/arnabk/raw/master/Education.png)
 
-<span style="padding-left: 20px">[<img src="https://github.com/arnabk/arnabk/raw/master/Degree.png">](http://www.nits.ac.in/)</span> Bachelor of Technology, Electrical Engineering
+<span style="padding-left: 20px">![<img src="https://github.com/arnabk/arnabk/raw/master/Degree.png">](http://www.nits.ac.in/)</span> Bachelor of Technology, Electrical Engineering
 
-<span style="padding-left: 20px">[<img src="https://github.com/arnabk/arnabk/raw/master/Udacity.png">](https://graduation.udacity.com/confirm/GQU5F559)</span> <span style="vertical-align: middle;">Machine Learning Engineer</span>
+<span style="padding-left: 20px">![<img src="https://github.com/arnabk/arnabk/raw/master/Udacity.png">](https://graduation.udacity.com/confirm/GQU5F559)</span> <span style="vertical-align: middle;">Machine Learning Engineer</span>
