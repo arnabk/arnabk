@@ -7,7 +7,6 @@ arnab.k@gmail.com
 <img src="https://www.pinclipart.com/picdir/big/207-2071102_es7-snippets-react-native-icon-png-clipart.png" width="50" height="50" alt="React" />
 <img src="https://www.pinclipart.com/picdir/middle/202-2022380_however-redux-has-a-functional-programming-based-nature.png" width="50" height="50" alt="Redux" />
 <img src="https://www.benmvp.com/static/bf5110fcdc155bf03a62c7863573ec65/c7de9/ecmascript-logo.webp" width="50" height="50" alt="ES6" />
-
 <img src="https://www.pinclipart.com/picdir/middle/544-5441989_graphql-graphql-logo-png-clipart.png" width="50" height="50" alt="GraphQL" />
 
 <img src="https://miro.medium.com/max/1838/1*pO4kjXdsOi_ZsS50Py6UNQ.png" width="50" height="50" alt="Apollo" />
