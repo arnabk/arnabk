@@ -10,43 +10,43 @@
 <span style="padding-left: 20px;">[![Principal Eng](https://github.com/arnabk/arnabk/raw/master/Principal.png)]()</span> Working @ **Varo**
 
 <p style="padding: 10px 10px 10px 20px;">
-    Building full stack application using ReactJS, React Context, React Hooks, Apollo client, ES6, enzyme, material-ui, typescript, micro-services using Apollo Server, ES6, jest, typescript, kafka, GRPC, elastic search.
+    Building full-stack application using ReactJS, React Context, React Hooks, Apollo client, ES6, enzyme, material-ui, typescript, graphql, micro-services using Apollo Server, jest, Kafka, GRPC, elastic search, redis cache. Bootstrap and architect projects and guide how to setup CI/CD. Mentor junior engineers. Integration with okta for authentication. Implement access control both in front end as well as backend(Graphql) using CASL library. Participating in Front End and Graphql architecture meetings. Integrate GraphQL servers with backend GRPC services. Building search infrastructure using elastic search
 </p>
   
 <span style="padding-left: 20px">[![Sr Software Eng](https://github.com/arnabk/arnabk/raw/master/SrSoftware.png)]()</span> Worked @ **Sofi**
   
 <p style="padding: 10px 10px 10px 20px;">
-    Building front end applications using ReactJS, React Context, React Hooks, Redux, Thunk, GraphQL (apollo client), ES6, Babel, Saga, jest, enzyme, reselect, formik, material-ui, typescript
+    Building front end applications using ReactJS, React Context, React Hooks, Redux, Thunk, GraphQL (apollo client), ES6, Babel, Saga, jest, enzyme, reselect, formik, material-ui, typescript. Other than working on the main dashboard (main project), took initiative to build internal tools (full-stack application) for dataware house team to visualize data. Take part in demo. Collaborate with devops to get Bamboo setup for UI projects. Took initiative to build bridge library for mobile team so that communication between web and mobile follows a standard agreed contract while using WebView. UI code bundle analysis for investigating dependencies causing large bundle size
 </p>
 
 <span style="padding-left: 20px">[![Sr Software Eng](https://github.com/arnabk/arnabk/raw/master/SrSoftware.png)]()</span> Worked @ **Spherasolutions**
 
 <p style="padding: 10px 10px 10px 20px;">
-    Building front end application using ReactJS, Redux, Saga, NodeJS, Webpack, SASS, jsPDF, XLSjs, PostCSS, ES6, Babel and all other good things in Front End. Helping team to migrate a legacy application consisting of 150+ screens
+    Building front end application using ReactJS, Redux, Saga, NodeJS, Webpack, SASS, jsPDF, XLSjs, PostCSS, ES6, Babel and all other good things in Front End. Helping team to migrate a legacy application consisting of 150+ screens. This development was a very large scale FE development. It started with initial demo to leadership to agree on new tech for FE and then leading the effort of putting together the base architecture that all other developers later contributed to. The entire process consisted of build base arch, then demoing multiple times and working with out UI/UX developer
 </p>
 
 <span style="padding-left: 20px">[![Sr Software Eng](https://github.com/arnabk/arnabk/raw/master/SrSoftware.png)]()</span> Worked @ **IHS**
 
 <p style="padding: 10px 10px 10px 20px;">
-    Front end development using jQuery, JSF/Primefaces and back end with Weblogic, Maven, Java. Worked as expert advisor for JSF/Primefaces and jQuery. Converted manual deployment process to Jenkins CI
+    Full-stack application development using jQuery, JSF/Primefaces, Weblogic, Maven, Java/JEE, Spring. Worked as expert advisor for JSF/Primefaces and jQuery. Converted manual deployment process to Jenkins CI
 </p>
 
 <span style="padding-left: 20px">[![Associate Programmer](https://github.com/arnabk/arnabk/raw/master/Associate.png)]()</span> Worked @ **LiquidHub**
 
 <p style="padding: 10px 10px 10px 20px;">
-    Front end development using jQuery, JSF/Facelets and back end using Jersey API, Spring, Drools, Java. Converted manual test cases to automated system using Selenium and Jenkins
+    Full-stack application development using jQuery, JSF/Primefaces, Weblogic, Maven, Java/JEE, Spring. Worked as expert advisor for JSF/Primefaces and jQuery. Converted manual deployment process to Jenkins CI
 </p>
 
 <span style="padding-left: 20px">[![Computer Programmer](https://github.com/arnabk/arnabk/raw/master/Analyst.png)]()</span> Worked @ **Sourceinfotech**
 
 <p style="padding: 10px 10px 10px 20px;">
-    Building front end and back end application using Applet, JSF, JSP, Servlets, WAS, RAD, VB, Checkstyle, Javascript. JSF custom components development dealing with internal lifecycle of JSF framework. Developing REST based services
+    Building full-stack application using Applet, JSF, JSP, Servlets, WAS, RAD, VB, Checkstyle, Javascript. JSF custom components development dealing with internal lifecycle of JSF framework. Developing REST based services
 </p>
 
 <span style="padding-left: 20px">[![Software Eng](https://github.com/arnabk/arnabk/raw/master/Software.png)]()</span> Worked @ **WTG**
 
 <p style="padding: 10px 10px 10px 20px;">
-    Desktop application development using Java Swing and JEE middleware. Technologies used were Swing, EJB, Weblogic, Checkstyle, JUnit, XDocklet
+    Desktop application development using Java Swing  and JEE middleware. Technologies used were Swing, EJB, Weblogic, Checkstyle, JUnit, XDocklet
 </p>
 
 <span style="padding-left: 20px">[![Software Eng](https://github.com/arnabk/arnabk/raw/master/Software.png)]()</span> Worked @ **Cashedge**
